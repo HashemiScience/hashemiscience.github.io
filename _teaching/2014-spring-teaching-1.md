@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/inferential-statistics
 venue: "Department of Psychology, Neuroscience & Behaviour, McMaster University"
-date: 
+date: 2017
 location: "Hamilton, ON"
 ---
 
