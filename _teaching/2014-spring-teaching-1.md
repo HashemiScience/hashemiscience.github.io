@@ -4,8 +4,8 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/inferential-statistics
 venue: "Department of Psychology, Neuroscience & Behaviour, McMaster University"
-date: 2017
-location: "Hamilton, ON"
+date: 2017-01-01
+location: "City, Country"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
